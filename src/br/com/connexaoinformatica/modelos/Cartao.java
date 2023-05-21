@@ -44,7 +44,7 @@ public class Cartao {
     public String toString(){
         return "Limite "
                 + this.limite
-                +" Total de Compras "+ saldo;
+                +" **_Total de Compras-** "+ saldo;
     }
 
 }
